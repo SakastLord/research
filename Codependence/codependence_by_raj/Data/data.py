@@ -3,7 +3,8 @@ Class to procure data needed for research
 """
 
 import numpy as np 
-import yfinance as yf 
+import yfinance as yf
+import sklearn as sk 
 
 class Data:
     """
